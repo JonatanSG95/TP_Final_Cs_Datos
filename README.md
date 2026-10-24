@@ -91,7 +91,7 @@ Se utilizan las siguientes métricas para comparar el desempeño de los modelos:
 
    ```bash
    git clone https://github.com/JonatanSG95/TP_Final_Cs_Datos.git
-   cd NOMBRE_DEL_REPOSITORIO
+   cd TP_Final_Cs_Datos
    ```
 
 2. Instalar las dependencias:
