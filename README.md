@@ -90,7 +90,7 @@ Se utilizan las siguientes métricas para comparar el desempeño de los modelos:
 1. Clonar el repositorio:
 
    ```bash
-   git clone URL_DEL_REPOSITORIO
+   git clone https://github.com/JonatanSG95/TP_Final_Cs_Datos.git
    cd NOMBRE_DEL_REPOSITORIO
    ```
 
