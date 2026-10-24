@@ -100,15 +100,13 @@ Se utilizan las siguientes métricas para comparar el desempeño de los modelos:
    pip install pandas numpy matplotlib seaborn scikit-learn tensorflow jupyter
    ```
 
-3. Colocar el archivo `bodyfat.xls` en el directorio desde el que se ejecutará el notebook.
-
-4. Abrir Jupyter Notebook:
+3. Abrir Jupyter Notebook:
 
    ```bash
    jupyter notebook
    ```
 
-5. Abrir `Proyecto Final.ipynb` y ejecutar las celdas en orden.
+4. Abrir `Proyecto Final.ipynb` y ejecutar las celdas en orden.
 
 **Nota:** el notebook carga `bodyfat.xls` mediante `pandas.read_csv`, por lo que el archivo debe tener contenido delimitado por comas, aunque su extensión sea `.xls`.
 
